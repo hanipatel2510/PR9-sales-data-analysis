@@ -1,0 +1,51 @@
+SalesID,Product,Region,Sales,Year
+101,Product A,North,863,2023
+102,Product B,South,509,2021
+103,Product C,North,1164,2023
+104,Product D,North,747,2021
+105,Product E,Central,354,2023
+106,Product A,South,1416,2023
+107,Product B,South,869,2022
+108,Product A,South,1165,2023
+109,Product C,East,740,2020
+110,Product D,North,1078,2021
+111,Product A,East,841,2022
+112,Product A,West Coast,555,2023
+113,Product D,North,900,2023
+114,Product E,East,693,2024
+115,Product A,North,766,2023
+116,Product C,North,506,2021
+117,Product D,East,1047,2022
+118,Product B,East,729,2022
+119,Product C,North,650,2020
+120,Product E,South,1246,2021
+121,Product D,East,1440,2023
+122,Product B,East,769,2021
+123,Product A,East,848,2022
+124,Product A,South,944,2023
+125,Product B,West Coast,1239,2022
+126,Product B,East,805,2021
+127,Product E,Central,1497,2022
+128,Product D,Central,1041,2024
+129,Product B,South,1310,2023
+130,Product A,North,613,2021
+131,Product B,West Coast,430,2023
+132,Product D,West Coast,1258,2023
+133,Product E,East,323,2023
+134,Product A,Central,996,2022
+135,Product A,East,623,2022
+136,Product D,North,839,2023
+137,Product E,South,517,2023
+138,Product C,Central,707,2023
+139,Product B,East,1404,2021
+140,Product E,North,963,2023
+141,Product D,North,1043,2020
+142,Product C,South,793,2021
+143,Product E,North,1295,2021
+144,Product A,Central,562,2024
+145,Product D,Central,842,2021
+146,Product E,Central,733,2022
+147,Product E,South,938,2023
+148,Product D,East,1359,2022
+149,Product D,North,760,2021
+150,Product A,East,1434,2020
